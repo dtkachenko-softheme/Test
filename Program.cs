@@ -7,6 +7,7 @@ namespace Test
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Initializing");
+			Console.WriteLine("Finalizing");
 		}
 	}
 }
